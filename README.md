@@ -20,3 +20,7 @@ This demonstrates basic DevOps practices such as CI automation, containerization
 - GitHub
 - Linux
 
+## CI Pipeline Workflow
+
+
+GitHub Repository -> Jenkins -> Build Docker Image -> Run Docker Container
